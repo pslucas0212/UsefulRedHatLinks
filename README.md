@@ -17,4 +17,4 @@ Updated 4 August 2021
 
 ## AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021
-- [4 reasons you'll love using Red Hat OpenShift Data Science](4 reasons you'll love using Red Hat OpenShift Data Science) - Published April 27, 2021
+- [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021

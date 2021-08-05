@@ -10,12 +10,9 @@ Updated 4 August 2021
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 
 
-## Red Hat Enterprise Extended Support Life Cycle
-- [https://access.redhat.com/solutions/690063](What is ELS & It’s Lifecycle)
-- [https://access.redhat.com/solutions/690063](Master package list - This list and all their sub-packages are covered)
-- [https://access.redhat.com/articles/4997301](RHEL6 ELS FAQs)
-- [https://access.redhat.com/articles/4665701] (How to access the ELS repo
-- [https://access.redhat.com/articles/4873951]
+## Red Hat Enterprise Extended Support Life Cycle - RHEL 6
+- [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
+- [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
 
 ## Red Hat OpenShift
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)

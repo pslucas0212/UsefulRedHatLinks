@@ -32,3 +32,6 @@ Updated 6 August 2021
 ### Red Hat Ansible Automation Platform
 - [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
 
+## Red Hat Software Support
+- [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
+

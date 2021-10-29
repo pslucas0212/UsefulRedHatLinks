@@ -15,7 +15,12 @@ Updated 29 October 2021
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
 
-### Virtual Data Center Subscription - Technic
+### Virtual Data Center Subscription
+- [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
+- [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labsinfo/virtwhoconfig)
+- [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
+
+
 ## Red Hat Smart Management
 - [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
 

@@ -24,9 +24,9 @@ Updated 29 October 2021
 ## Red Hat Smart Management  
 
 ## Red Hat OpenShift
-### Red Hat OpenShift sizing and subscrption
+### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
-
+- [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
 ### Red Hat AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021

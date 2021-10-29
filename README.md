@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 6 August 2021
+Updated 29 October 2021
 
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
@@ -15,7 +15,9 @@ Updated 6 August 2021
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
 
-
+### Virtual Data Center Subscription - Technic
+## Red Hat Smart Management
+- [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
 
 ## Red Hat OpenShift
 ### Red Hat OpenShift sizing and subscrption

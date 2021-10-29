@@ -21,8 +21,7 @@ Updated 29 October 2021
 - [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
 
 
-## Red Hat Smart Management
-- [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
+## Red Hat Smart Management  
 
 ## Red Hat OpenShift
 ### Red Hat OpenShift sizing and subscrption

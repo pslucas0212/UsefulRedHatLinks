@@ -40,4 +40,5 @@ Updated 29 October 2021
 
 ## Red Hat Software Support
 - [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
+- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)
 

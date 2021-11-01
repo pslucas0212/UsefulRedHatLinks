@@ -54,6 +54,9 @@ Updated 29 October 2021
 ## Red Hat Maunfacturing
 - [How Volkswagen Tests Autonomous Cars with GPUs and OpenShift](https://cloud.redhat.com/blog/how-volkswagen-tests-autonomous-cars-with-gpus-and-openshift) - YouTube
 
+## Red Hat Govenment
+- [STATE AND LOCAL GOVERNMENT](https://www.redhat.com/en/solutions/public-sector/state-and-local) - Home Page
+
 
 ## Red Hat Government
 - [Red Hat solutions for state and local government public safety](https://www.redhat.com/en/about/videos/red-hat-solutions-state-and-local-government-public-safety)

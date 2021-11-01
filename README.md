@@ -42,3 +42,20 @@ Updated 29 October 2021
 - [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)
 
+## Red Hat Gluster
+- [Architectural overview of Red Hat Gluster Storage](https://www.redhat.com/en/about/videos/architectural-overview-red-hat-gluster-storage) - YouTube
+- [Red Hat Gluster Storage: Compatible Physical, Virtual Server and Client OS Platforms](https://access.redhat.com/articles/66206)
+- [PERFORMANCE AND SIZING GUIDE](https://go.qct.io/wp-content/uploads/2018/08/Reference-Architecture-QCT-and-Red-Hat-Gluster-Storage-Performance-and-Sizing-Guide.pdf) - PDF
+- [Performance and Sizing with Red Hat Gluster Storage](https://www.youtube.com/watch?v=h86zGibyndM) - YouTube
+
+## Edge Computing
+- [Understanding edge computing Published March 29, 2021](https://www.redhat.com/en/topics/edge-computing)
+
+## Red Hat Maunfacturing
+- [How Volkswagen Tests Autonomous Cars with GPUs and OpenShift](https://cloud.redhat.com/blog/how-volkswagen-tests-autonomous-cars-with-gpus-and-openshift) - YouTube
+
+
+## Red Hat Government
+- [Red Hat solutions for state and local government public safety](https://www.redhat.com/en/about/videos/red-hat-solutions-state-and-local-government-public-safety)
+- [Red Hat technologies for state and local public safety agencies](https://www.redhat.com/en/resources/state-local-government-public-safety-brief)
+- [Edge computing for smart cities and emergency management](https://www.redhat.com/rhdc/managed-files/ve-smart-cities-edge-brief-f27953wg-202104-en.pdf)

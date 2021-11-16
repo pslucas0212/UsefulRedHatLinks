@@ -18,6 +18,11 @@ Updated 16 November 2021
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 
+### Red Hat 8.5
+- [[What's New] RHEL 8.5/RHEL 9 Beta [Oct-2021]](https://videos.learning.redhat.com/media/%5BWhat%27s+New%5D+RHEL+8.5+RHEL+9+Beta+%5BOct-2021%5D/1_d8dj7py7)
+- [Red Hat 8.5 Release Notes](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/8.5_release_notes/overview#red-hat-customer-portal-labs)
+- [What's new in RHEL 8.5](https://www.redhat.com/en/blog/whats-new-rhel-85)
+
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6
 - [FAQ: Red Hat Enterprise Linux 6 reaches End of Maintenance Phase and transitions to Extended Life Phase](https://access.redhat.com/solutions/690063)
 - [How do I access Red Hat Enterprise Linux 6 Extended Life Cycle Support (ELS) content after Red Hat Enterprise Linux 6 transitions to Extended Life Phase?](https://access.redhat.com/articles/4873951)
@@ -35,6 +40,9 @@ Updated 16 November 2021
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
+
+## Red Hat OpenShift Edge
+- [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
 
 ### Red Hat AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021

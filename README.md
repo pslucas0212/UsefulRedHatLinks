@@ -2,11 +2,13 @@
 Updated 16 November 2021
 
 ### Red Hat Support Topics
-- [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961). 
--
+- [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
+- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
+
+
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
-- [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)
+
 
 
 

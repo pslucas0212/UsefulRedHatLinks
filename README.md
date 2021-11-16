@@ -37,7 +37,7 @@ Updated 16 November 2021
 
 
 ## Red Hat Smart Management  
-### Topics coming....
+-[Red Hat Satellite 6.1 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 
 ## Red Hat OpenShift
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription

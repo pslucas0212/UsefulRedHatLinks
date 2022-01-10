@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 16 November 2021
+Updated 10 January 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -39,6 +39,12 @@ Updated 16 November 2021
 ## Red Hat Smart Management  
 -[Red Hat Satellite 6.1 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 
+### Running Satellite in an Air-Gapped Environment
+- [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS - from 6.3 - Good diagram](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss)
+- [CHAPTER 8. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS - from 6.10](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html/content_management_guide/using_iss)
+- [Satellite 6.2 Feature Overview: Inter-Satellite Sync - Video from 6.2 release](https://www.redhat.com/en/about/videos/satellite-feature-intersatellite-sync)
+- [[Satellite 6] Hardware Requirements for Inter-Satellite Sync (ISS)](https://access.redhat.com/solutions/5304971)
+
 ## Red Hat OpenShift
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
@@ -56,6 +62,7 @@ Updated 16 November 2021
 ## Red Hat Ansible
 ### Red Hat Ansible Automation Platform
 - [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
+- [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower)
 
 
 ## Red Hat Storage

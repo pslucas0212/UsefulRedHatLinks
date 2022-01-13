@@ -37,7 +37,7 @@ Updated 10 January 2022
 
 
 ## Red Hat Smart Management  
--[Red Hat Satellite 6.1 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
+- [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
 
 ### Running Satellite in an Air-Gapped Environment
 - [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS - from 6.3 - Good diagram](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss)

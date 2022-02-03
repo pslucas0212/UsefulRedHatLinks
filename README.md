@@ -42,7 +42,7 @@ Updated 03 February 2022
 - [Red Hat Enterprise Linux 7 to 8 In-Place Upgrade Using Leapp - one hour video overview/demo](https://www.youtube.com/watch?v=4nG2X_pmxv4)
 
 ### Red Hat Enterprise Linux Updates
-- [How can we regularly update a disconnected system (A system without internet connection)?](How can we regularly update a disconnected system (A system without internet connection)?)
+- [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 
 
 ## Red Hat Smart Management  

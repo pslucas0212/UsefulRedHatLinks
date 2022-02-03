@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 10 January 2022
+Updated 03 February 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -34,6 +34,15 @@ Updated 10 January 2022
 - [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
 - [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labsinfo/virtwhoconfig)
 - [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
+
+### Red Hat Enterprise Linux Upgrade
+- [How to do an offline upgrade to RHEL 8 with Leapp?](https://access.redhat.com/solutions/5492401)
+- [Upgrading from RHEL 7 to RHEL 8 with Leapp and BOOM](https://www.redhat.com/en/blog/upgrading-rhel-7-rhel-8-leapp-and-boom)
+- [Upgrade from Red Hat Enterprise Linux 7 to 8 with Leapp - Video - Approximately 4 minutes](https://www.redhat.com/en/about/videos/upgrade-from-red-hat-enterprise-7-with-Leapp)
+- [Red Hat Enterprise Linux 7 to 8 In-Place Upgrade Using Leapp - one hour video overview/demo](https://www.youtube.com/watch?v=4nG2X_pmxv4)
+
+### Red Hat Enterprise Linux Updates
+- [How can we regularly update a disconnected system (A system without internet connection)?](How can we regularly update a disconnected system (A system without internet connection)?)
 
 
 ## Red Hat Smart Management  

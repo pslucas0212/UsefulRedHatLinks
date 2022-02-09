@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 03 February 2022
+Updated 09 February 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -43,6 +43,10 @@ Updated 03 February 2022
 
 ### Red Hat Enterprise Linux Updates
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
+
+### Tomcat
+- [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
+- [Apache Tomcat versions supported by Red Hat](https://access.redhat.com/solutions/661403)
 
 
 ## Red Hat Smart Management  

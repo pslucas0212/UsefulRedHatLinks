@@ -47,6 +47,8 @@ Updated 14 February 2022
 - [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
 - [Apache Tomcat versions supported by Red Hat](https://access.redhat.com/solutions/661403)
 
+### Internationalization
+- [How to install German language and use langpacks in RHEL 8 ?](https://access.redhat.com/solutions/6178821) - Example on how to install a language pack on RHEL 8.
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)

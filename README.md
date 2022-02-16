@@ -16,6 +16,7 @@ Updated 16 February 2022
 ### Red Hat Enterprise Linux Life Cycle and Subscription
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
+- [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - November 2021
 
 ### Red Hat Enterpsie Linux 8.5
 - [[What's New] RHEL 8.5/RHEL 9 Beta [Oct-2021]](https://videos.learning.redhat.com/media/%5BWhat%27s+New%5D+RHEL+8.5+RHEL+9+Beta+%5BOct-2021%5D/1_d8dj7py7)

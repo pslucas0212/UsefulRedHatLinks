@@ -56,6 +56,9 @@ Updated 16 February 2022
 - [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
 - [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
 
+### Application Streams in RHEL 8
+- [Introduction to Application Streams in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introduction-appstreams-and-modules-red-hat-enterprise-linux)
+- [Red Hat Enterprise Linux 8 Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle)
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)

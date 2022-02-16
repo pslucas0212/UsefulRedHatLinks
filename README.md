@@ -50,8 +50,17 @@ Updated 16 February 2022
 ### Internationalization
 - [How to install German language and use langpacks in RHEL 8 ?](https://access.redhat.com/solutions/6178821) - Example on how to install a language pack on RHEL 8.
 
+### Converting CentOS or OEL To RHEL
+- [An Introduction to Convert2RHEL: Now officially supported to convert RHEL-like systems to RHEL](https://www.redhat.com/en/blog/introduction-convert2rhel-now-officially-supported-convert-rhel-systems-rhel) - April 2021 arricle
+- [Converting from CentOS to RHEL with Convert2RHEL and Satellite ](https://www.redhat.com/en/blog/converting-centos-rhel-convert2rhel-and-satellite) - March 2020 Overview
+- [Introduction Convert to RHEL: Convert2RHEL](https://www.youtube.com/watch?v=Git-6uAz1t4) - YouTube - September 2021
+- [Convert from CentOS Linux with Convert2RHEL](https://www.youtube.com/watch?v=xX7P4BzOcNg) - YouTube - October 2021
+
+
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)
+
+
 
 ### Running Satellite in an Air-Gapped Environment
 - [APPENDIX D. SYNCHRONIZING CONTENT BETWEEN SATELLITE SERVERS](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.3/html/content_management_guide/using_iss) - from 6.3 KnowledgeCenter with a architecture diagram

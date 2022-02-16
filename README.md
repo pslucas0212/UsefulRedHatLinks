@@ -43,7 +43,7 @@ Updated 16 February 2022
 ### Red Hat Enterprise Linux Updates
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)
 
-### Tomcat
+### RHEL and Tomcat
 - [Apache Tomcat No Longer Available on RHEL 8.x Distributions](https://access.redhat.com/articles/5617971)
 - [Apache Tomcat versions supported by Red Hat](https://access.redhat.com/solutions/661403)
 

@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 14 February 2022
+Updated 16 February 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -80,8 +80,12 @@ Updated 14 February 2022
 - [What's new: network automation using Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/whats-new-network-automation-using-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 - [New reference architecture: Deploying Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/new-reference-architecture-deploying-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 
-### Red Hat Runtimes
-## Red Hat JBoss
+## Red Hat Runtimes
+
+### Subscriptions
+- [](https://www.redhat.com/en/resources/application-services-subscription-guide-detail)
+
+### Red Hat JBoss
 - [How to download the JBoss EAP 6 source code package ?](https://access.redhat.com/solutions/1395353)
 
 ## Red Hat Storage

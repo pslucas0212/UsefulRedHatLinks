@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 16 February 2022
+Updated 17 February 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -17,6 +17,10 @@ Updated 16 February 2022
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)
 - [Red Hat Enterprise Linux Release Dates](https://access.redhat.com/articles/3078) - November 2021
+
+### Certifications - Government, Industry, etc.
+- [Government Standards](https://access.redhat.com/articles/2918071)
+- [Red Hat Adds Common Criteria Certification for Red Hat Enterprise Linux 8](https://www.redhat.com/en/about/press-releases/red-hat-adds-common-criteria-certification-red-hat-enterprise-linux-8)
 
 ### Red Hat Enterpsie Linux 8.5
 - [[What's New] RHEL 8.5/RHEL 9 Beta [Oct-2021]](https://videos.learning.redhat.com/media/%5BWhat%27s+New%5D+RHEL+8.5+RHEL+9+Beta+%5BOct-2021%5D/1_d8dj7py7)

@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 17 February 2022
+Updated 25 February 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -13,6 +13,10 @@ Updated 17 February 2022
 
 
 ## Red Hat Enterprise Linux
+
+## Registration and Subscription
+- [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
+
 ### Red Hat Enterprise Linux Life Cycle and Subscription
 - [Red Hat Enterprise Linux Life Cycle](https://access.redhat.com/support/policy/updates/errata)
 - [Red Hat Enterprise Linux subscription guide](https://www.redhat.com/en/resources/Linux-rhel-subscription-guide)

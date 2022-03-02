@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 25 February 2022
+Updated 2 March 2022
 
 ## Red Hat Support Topics
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
@@ -14,7 +14,7 @@ Updated 25 February 2022
 
 ## Red Hat Enterprise Linux
 
-## Registration and Subscription
+### Registration and Subscription
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
 
 ### Red Hat Enterprise Linux Life Cycle and Subscription
@@ -49,6 +49,12 @@ Updated 25 February 2022
 - [Upgrading from RHEL 7 to RHEL 8 with Leapp and BOOM](https://www.redhat.com/en/blog/upgrading-rhel-7-rhel-8-leapp-and-boom)
 - [Upgrade from Red Hat Enterprise Linux 7 to 8 with Leapp](https://www.redhat.com/en/about/videos/upgrade-from-red-hat-enterprise-7-with-Leapp)  - Video - Approximately 4 minutes
 - [Red Hat Enterprise Linux 7 to 8 In-Place Upgrade Using Leapp](https://www.youtube.com/watch?v=4nG2X_pmxv4) - one hour video overview/demo
+
+### RHEL GUI/Web Server Administration
+- [An introduction to Cockpit, a browser-based administration tool for Linux](https://www.redhat.com/sysadmin/intro-cockpit#:~:text=Cockpit%20is%20a%20server%20administration,continued%20to%20grow%20and%20mature.)
+- [RHEL 7 Documentation - GETTING STARTED WITH COCKPIT](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html-single/getting_started_with_cockpit/index)
+- [RHEL 8 Documentation - MANAGING SYSTEMS USING THE RHEL 8 WEB CONSOLE](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_systems_using_the_rhel_8_web_console/index)
+- [RHEL 8 Beta - Cockpit Web Based Management Interface Overview](https://www.redhat.com/en/about/videos/rhel-8-beta-cockpit-web-based-interface-overview) - 11 minute video
 
 ### Red Hat Enterprise Linux Updates
 - [How can we regularly update a disconnected system (A system without internet connection)?](https://access.redhat.com/solutions/29269)

@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 2 March 2022
+Updated 3 March 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -45,6 +45,7 @@ Updated 2 March 2022
 - [What's new in RHEL 8.5](https://www.redhat.com/en/blog/whats-new-rhel-85)
 
 ### Red Hat Enterprise Linux 9 Beta
+- [What to Know about RHEL 9](https://www.youtube.com/watch?v=YHeXhlAWqWc) - YouTube Presentation published 2/23/2022
 - [What's new in Red Hat Enterprise Linux 9 Beta](https://www.redhat.com/en/blog/whats-new-rhel-90-beta)
 
 ### Red Hat Enterprise Extended Support Life Cycle - RHEL 6

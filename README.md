@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 3 March 2022
+Updated 4 March 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -18,6 +18,10 @@ Updated 3 March 2022
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
 - [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
 
+## Red Hat Labs
+- [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)
+- [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
+- [Getting started with automation mesh](https://play.instruqt.com/embed/redhat/tracks/getting-started-mesh?token=em_eGpRMNjJl3q9Lp7S&show_challenges=true) - Not official Red Hat Content
 
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
@@ -121,6 +125,7 @@ Updated 3 March 2022
 - [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
 - [What's new: network automation using Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/whats-new-network-automation-using-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 - [New reference architecture: Deploying Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/new-reference-architecture-deploying-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
+- [Getting started with Red Hat Ansible Platform](https://developers.redhat.com/products/ansible/getting-started)
 
 ## Red Hat Runtimes
 

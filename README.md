@@ -18,6 +18,7 @@ Updated 4 March 2022
 - [Explaining Red Hat Errata (RHSA, RHBA, and RHEA)](https://access.redhat.com/articles/2130961)
 - [Red Hat Support Case Escalation](https://access.redhat.com/support/escalation)  
 - [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
+- [Life Cycle and Update Policies](https://access.redhat.com/support/policy/update_policies/)
 
 ## Red Hat Labs
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)

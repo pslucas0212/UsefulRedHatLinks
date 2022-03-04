@@ -30,6 +30,9 @@ Updated 4 March 2022
 
 
 ## Red Hat Enterprise Linux
+ 
+### Sysadmin
+- [Enable Sysadmin](https://www.redhat.com/sysadmin/)
 
 ### Registration and Subscription
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)

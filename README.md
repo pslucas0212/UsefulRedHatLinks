@@ -22,7 +22,7 @@ Updated 4 March 2022
 ## Red Hat Labs
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
-- [Getting started with automation mesh](https://play.instruqt.com/embed/redhat/tracks/getting-started-mesh?token=em_eGpRMNjJl3q9Lp7S&show_challenges=true) - Not official Red Hat Content
+- [Ansible Automation Platform](https://play.instruqt.com/redhat) - Various learning tracks fro Ansible Automation Platform 
 
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
@@ -122,17 +122,22 @@ Updated 4 March 2022
 
 
 
-## Red Hat Ansible
-### Red Hat Ansible Automation Platform
-- [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
-- [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower)
+## Red Hat Ansible Automation Platform (AAP)
+
+### Overview
+- [Red Hat AAP YouTube Channel](https://www.youtube.com/ansibleautomation)
 - [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
 - [What's new: network automation using Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/whats-new-network-automation-using-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 - [New reference architecture: Deploying Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/new-reference-architecture-deploying-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 - [Getting started with Red Hat Ansible Platform](https://developers.redhat.com/products/ansible/getting-started)
+- [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
 
 ### Provisioining
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
+
+### Red Hat AAP Cycle and Subscription
+- [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower)
+- [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
 
 ## Red Hat Runtimes
 

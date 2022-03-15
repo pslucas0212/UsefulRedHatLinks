@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 4 March 2022
+Updated 15 March 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -116,9 +116,15 @@ Updated 4 March 2022
 
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
+- [Delivering a Three-node Architecture for Edge Deployments](https://cloud.redhat.com/blog/delivering-a-three-node-architecture-for-edge-deployments)
+- [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
+- [How MicroShift and Kubernetes help manage edge devices at scale](https://www.redhat.com/architect/ai-edge-microshift) - **NOTE: This currently a research project as of 15 March 2022**
+
+## OCP Installation 
 
 ### Red Hat AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021
+- [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021
 
 

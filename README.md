@@ -118,6 +118,7 @@ Updated 15 March 2022
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
 - [Delivering a Three-node Architecture for Edge Deployments](https://cloud.redhat.com/blog/delivering-a-three-node-architecture-for-edge-deployments)
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
+- [Demo: How to try out single-node OpenShift from Red Hat](https://www.youtube.com/watch?v=QFf0yVAHQKc) - YouTube video - August 2021
 - [How MicroShift and Kubernetes help manage edge devices at scale](https://www.redhat.com/architect/ai-edge-microshift) - **NOTE: This currently a research project as of 15 March 2022**
 
 ## OCP Installation 

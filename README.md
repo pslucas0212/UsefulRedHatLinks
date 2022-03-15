@@ -33,7 +33,7 @@ Updated 15 March 2022
 ## Red Hat Enterprise Linux
  
 ### Sysadmin
-- [Enable Sysadmin](https://www.redhat.com/sysadmin/)
+- [Enable Sysadmin](https://www.redhat.com/sysadmin/) - Linux system administration articles
 
 ### Registration and Subscription
 - [How to register and subscribe a system to the Red Hat Customer Portal using Red Hat Subscription-Manager](https://access.redhat.com/solutions/253273)
@@ -97,6 +97,9 @@ Updated 15 March 2022
 ### Application Streams in RHEL 8
 - [Introduction to Application Streams in Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introduction-appstreams-and-modules-red-hat-enterprise-linux)
 - [Red Hat Enterprise Linux 8 Application Streams Life Cycle](https://access.redhat.com/support/policy/updates/rhel8-app-streams-life-cycle)
+
+### Clustering with RHEL
+- [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)

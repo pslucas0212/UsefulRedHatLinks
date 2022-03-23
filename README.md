@@ -120,6 +120,7 @@ Updated 23 March 2022
 ### OCP Troubleshooting 
 - [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
 - [Consolidated Troubleshooting Article OpenShift Container Platform 4.x](https://access.redhat.com/articles/4217411)
+- [Creating must-gather with more details for specific components in OCP 4](https://access.redhat.com/solutions/5459251)
 
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)

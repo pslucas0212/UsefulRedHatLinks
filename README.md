@@ -131,7 +131,9 @@ Updated 15 March 2022
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021
 
-
+## OCP Troubleshooting 
+- [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
+- [Consolidated Troubleshooting Article OpenShift Container Platform 4.x](https://access.redhat.com/articles/4217411)
 
 ## Red Hat Ansible Automation Platform (AAP)
 

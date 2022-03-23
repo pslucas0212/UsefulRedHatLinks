@@ -117,6 +117,10 @@ Updated 23 March 2022
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
 
+### OCP Troubleshooting 
+- [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
+- [Consolidated Troubleshooting Article OpenShift Container Platform 4.x](https://access.redhat.com/articles/4217411)
+
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)
 - [Delivering a Three-node Architecture for Edge Deployments](https://cloud.redhat.com/blog/delivering-a-three-node-architecture-for-edge-deployments)
@@ -124,16 +128,14 @@ Updated 23 March 2022
 - [Demo: How to try out single-node OpenShift from Red Hat](https://www.youtube.com/watch?v=QFf0yVAHQKc) - YouTube video - August 2021
 - [How MicroShift and Kubernetes help manage edge devices at scale](https://www.redhat.com/architect/ai-edge-microshift) - **NOTE: This currently a research project as of 15 March 2022**
 
-## OCP Installation 
+### OCP Installation 
 
 ### Red Hat AI/ML
 - [Introducing Red Hat OpenShift Data Science](https://www.redhat.com/en/blog/introducing-red-hat-openshift-data-science) - Published April 27, 2021
 - [Visual Guide to Single Node OpenShift Deploy](https://cloud.redhat.com/blog/visual-guide-to-single-node-openshift-deploy)
 - [4 reasons you'll love using Red Hat OpenShift Data Science](https://developers.redhat.com/blog/2021/04/27/4-reasons-youll-love-using-red-hat-openshift-data-science) - Published April 27, 2021
 
-## OCP Troubleshooting 
-- [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
-- [Consolidated Troubleshooting Article OpenShift Container Platform 4.x](https://access.redhat.com/articles/4217411)
+
 
 ## Red Hat Ansible Automation Platform (AAP)
 

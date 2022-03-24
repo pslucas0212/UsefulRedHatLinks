@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 23 March 2022
+Updated 24 March 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)

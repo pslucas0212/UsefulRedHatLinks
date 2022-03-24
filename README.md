@@ -181,6 +181,9 @@ Updated 24 March 2022
 ### Red Hat Software Source Code
 - [Software Downloads](https://access.redhat.com/jbossnetwork/restricted/listSoftware.html)
 
+### Certification - Platforms and Technologies
+- [Tested, Certified, Supported](https://catalog.redhat.com/#/ecosystem)
+
 ### Edge Computing
 - [Understanding edge computing Published March 29, 2021](https://www.redhat.com/en/topics/edge-computing)
 

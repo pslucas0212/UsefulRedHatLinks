@@ -67,6 +67,7 @@ Updated 04 April 2022
 - [Why and when do I need Virt-Who?](https://access.redhat.com/articles/1300283)
 - [Red Hat Virtualization Agent (virt-who) Configuration Helper](https://access.redhat.com/labsinfo/virtwhoconfig)
 - [Using RHEL Virtual Data Center Subscription [Master Article]](https://access.redhat.com/solutions/3243071)
+- [Configuring virt-who with Red Hat Subscription Management](https://www.youtube.com/watch?v=0KptauyDAxE)
 
 ### Red Hat Enterprise Linux Upgrade
 - [How to do an offline upgrade to RHEL 8 with Leapp?](https://access.redhat.com/solutions/5492401)

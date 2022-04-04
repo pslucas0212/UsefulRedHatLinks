@@ -103,9 +103,9 @@ Updated 04 April 2022
 ### Clustering with RHEL
 - [How to build an active-active-active cluster with RHEL 8 and Percona MySQL](https://www.redhat.com/sysadmin/active-active-active-clusters)
 
-## Integration with Active Directory
+### Integration with Active Directory
 - [Integrating RHEL systems directly with Windows Active Directory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/integrating_rhel_systems_directly_with_windows_active_directory/red_hat_enterprise_linux-8-integrating_rhel_systems_directly_with_windows_active_directory-en-us.pdf) - Using RHEL 8
-- [Configuring authentication and authorization in RHEL](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/configuring_authentication_and_authorization_in_rhel/red_hat_enterprise_linux-8-configuring_authentication_and_authorization_in_rhel-en-us.pdf)
+- [Configuring authentication and authorization in RHEL](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/configuring_authentication_and_authorization_in_rhel/red_hat_enterprise_linux-8-configuring_authentication_and_authorization_in_rhel-en-us.pdf) - Using RHEL 8
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)

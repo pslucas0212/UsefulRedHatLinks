@@ -21,6 +21,7 @@ Updated 04 April 2022
 - [How does Red Hat define standard business hours](https://access.redhat.com/articles/2623321)
 - [Life Cycle and Update Policies](https://access.redhat.com/support/policy/update_policies/)
 - [As a customer how does Red Hat support me when I use third party components?](https://access.redhat.com/third-party-software-support)aa
+- [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 
 ## Red Hat Labs
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)

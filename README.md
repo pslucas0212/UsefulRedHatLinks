@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 04 April 2022
+Updated 06 April 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -125,6 +125,13 @@ Updated 04 April 2022
 ### Red Hat OpenShift Lifecycle, Sizing and Subscription
 - [OpenShift sizing and subscription guide for enterprise Kubernetes](https://www.redhat.com/en/resources/openshift-subscription-sizing-guide)
 - [Red Hat OpenShift Container Platform Life Cycle Policy](https://access.redhat.com/support/policy/updates/openshift)
+
+### OCP Support
+- [OpenShift Container Platform 4.x Tested Integrations (for x86_x64)](https://access.redhat.com/articles/4763741)
+- [What version of the Kubernetes API is included with each OpenShift 4.x release?](https://access.redhat.com/solutions/4870701)
+- [Is there a list of Certified Hardware for Red Hat Enterprise Linux CoreOS?](https://access.redhat.com/solutions/4499911)
+- [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421) - Covers all supported platforms
+
 
 ### OCP Troubleshooting 
 - [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)

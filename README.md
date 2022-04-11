@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 06 April 2022
+Updated 11 April 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -109,6 +109,10 @@ Updated 06 April 2022
 ### Integration with Active Directory
 - [Integrating RHEL systems directly with Windows Active Directory](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/integrating_rhel_systems_directly_with_windows_active_directory/red_hat_enterprise_linux-8-integrating_rhel_systems_directly_with_windows_active_directory-en-us.pdf) - Using RHEL 8
 - [Configuring authentication and authorization in RHEL](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/configuring_authentication_and_authorization_in_rhel/red_hat_enterprise_linux-8-configuring_authentication_and_authorization_in_rhel-en-us.pdf) - Using RHEL 8
+
+### Security 
+- [How to enable TLS 1.0 and TLS 1.1 protocols in RHEL 8](https://access.redhat.com/solutions/6370021)
+
 
 ## Red Hat Smart Management  
 - [Red Hat Satellite 6.10 Release Notes - GA 16 November 2021](https://access.redhat.com/documentation/en-us/red_hat_satellite/6.10/html-single/release_notes/index)

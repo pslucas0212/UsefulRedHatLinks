@@ -23,10 +23,11 @@ Updated 11 April 2022
 - [As a customer how does Red Hat support me when I use third party components?](https://access.redhat.com/third-party-software-support)aa
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
 
-## Red Hat Labs
+## Red Hat Learning
 - [Red Hat Enterprise Linux Skills Workshops](https://lab.redhat.com/)
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
 - [Ansible Automation Platform](https://play.instruqt.com/redhat) - Various learning tracks fro Ansible Automation Platform 
+- [Red Hat Developer](https://developers.redhat.com/)
 
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)

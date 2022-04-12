@@ -28,6 +28,7 @@ Updated 12 April 2022
 - [Ansible Automation Platform Self-Paced Labs](https://www.ansible.com/products/ansible-training)
 - [Ansible Automation Platform](https://play.instruqt.com/redhat) - Various learning tracks fro Ansible Automation Platform 
 - [Red Hat Developer](https://developers.redhat.com/)
+- [RHEL on YouTube](https://www.youtube.com/c/RedHatEnterpriseLinux) - YouTube RHEL Learning and Announcements
 
 ## Red Hat Content Distribution Network
 - [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)

@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 12 April 2022
+Updated 13 April 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -138,11 +138,13 @@ Updated 12 April 2022
 - [Is there a list of Certified Hardware for Red Hat Enterprise Linux CoreOS?](https://access.redhat.com/solutions/4499911)
 - [OpenShift Container Platform 4.x Tested Integrations](https://access.redhat.com/articles/4128421) - Covers all supported platforms
 
-
 ### OCP Troubleshooting 
 - [OpenShift Troubleshooting Resources](https://connect.redhat.com/en/blog/openshift-troubleshooting-resources)
 - [Consolidated Troubleshooting Article OpenShift Container Platform 4.x](https://access.redhat.com/articles/4217411)
 - [Creating must-gather with more details for specific components in OCP 4](https://access.redhat.com/solutions/5459251)
+
+### OCP Performance
+- [Mounting separate disk for OpenShift 4 etcd](https://access.redhat.com/solutions/5840061)
 
 ## Red Hat OpenShift Edge
 - [Meet single node OpenShift: Our newest small OpenShift footprint for edge architectures](https://www.redhat.com/en/blog/meet-single-node-openshift-our-smallest-openshift-footprint-edge-architectures)

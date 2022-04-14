@@ -6,7 +6,7 @@ Updated 14 April 2022
 - [Red Hat Learning](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-learning)
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-content-distribution-network)
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
-- [Red Hat Smart Managment](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-smart-management)
+- [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift-edge)
 - [Red Hat Ansible](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-ansible-automation-platform-aap)

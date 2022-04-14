@@ -9,7 +9,7 @@ Updated 13 April 2022
 - [Red Hat Smart Managment](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-smart-management)
 - [Red Hat OpenShift](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift-edge)
-- [Red Hat Ansible](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-ansible)
+- [Red Hat Ansible](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-ansible-automation-platform-aap)
 - [Red Hat Runtimes](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-runtimes)
 - [Red Hat Storage](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-storage)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-virtualization)

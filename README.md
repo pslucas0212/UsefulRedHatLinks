@@ -10,7 +10,7 @@ Updated 14 April 2022
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
-- [Red Hat Runtimes](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-runtimes)
+- [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md)
 - [Red Hat Storage](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-storage)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-virtualization)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-misc-topics)
@@ -43,13 +43,6 @@ Updated 14 April 2022
 
 
 
-## Red Hat Runtimes
-
-### Subscriptions
-- [Red Hat Application Services subscription guide](https://www.redhat.com/en/resources/application-services-subscription-guide-detail) - July 2021
-
-### Red Hat JBoss
-- [How to download the JBoss EAP 6 source code package ?](https://access.redhat.com/solutions/1395353)
 
 
 

@@ -2,7 +2,7 @@
 Updated 14 April 2022
 
 ## Table of Contents
-- [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
+- [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-learning)
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-content-distribution-network)
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)

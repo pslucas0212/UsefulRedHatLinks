@@ -8,8 +8,8 @@ Updated 14 April 2022
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
 - [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
-- [Red Hat OpenShift Edge](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift-edge)
-- [Red Hat Ansible](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-ansible-automation-platform-aap)
+- [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
+- [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
 - [Red Hat Runtimes](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-runtimes)
 - [Red Hat Storage](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-storage)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-virtualization)
@@ -41,25 +41,7 @@ Updated 14 April 2022
 
 
 
-## Red Hat Ansible Automation Platform (AAP)
 
-### Overview
-- [Red Hat AAP YouTube Channel](https://www.youtube.com/ansibleautomation)
-- [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
-- [What's new: network automation using Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/whats-new-network-automation-using-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
-- [New reference architecture: Deploying Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/new-reference-architecture-deploying-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
-- [Getting started with Red Hat Ansible Platform](https://developers.redhat.com/products/ansible/getting-started)
-- [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
-
-### Installation
-- [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
-
-### Provisioining
-- [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)
-
-### Red Hat AAP Cycle and Subscription
-- [Red Hat Ansible Tower Life Cycle](https://access.redhat.com/support/policy/updates/ansible-tower)
-- [What is included in Red Hat Ansible Automation Platform subscription?](https://access.redhat.com/articles/6057451)
 
 ## Red Hat Runtimes
 
@@ -68,6 +50,8 @@ Updated 14 April 2022
 
 ### Red Hat JBoss
 - [How to download the JBoss EAP 6 source code package ?](https://access.redhat.com/solutions/1395353)
+
+
 
 ## Red Hat Storage
 ### Red Hat Gluster
@@ -79,6 +63,7 @@ Updated 14 April 2022
 
 ## Red Hat Virtualization
 - [Red Hat Virtualization Life Cycle](https://access.redhat.com/support/policy/updates/rhev)
+
 
 
 ## Red Hat Misc. Topics

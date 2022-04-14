@@ -4,7 +4,7 @@ Updated 14 April 2022
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)
-- [Red Hat Content Distribution Network](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-content-distribution-network)
+- [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
 - [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
@@ -16,10 +16,6 @@ Updated 14 April 2022
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-misc-topics)
 
 
-
-## Red Hat Content Distribution Network
-- [How to access Red Hat Subscription Manager (RHSM) through a firewall or proxy](https://access.redhat.com/solutions/65300)
-- [Downloading Packages via Red Hat Official Network is Slow in mainland China](https://access.redhat.com/solutions/5090421) - Provides information on  how to setup "local" CDN URL when avaiable.
 
 
 

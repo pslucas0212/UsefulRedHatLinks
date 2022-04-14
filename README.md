@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 13 April 2022
+Updated 14 April 2022
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
@@ -171,6 +171,9 @@ Updated 13 April 2022
 - [New reference architecture: Deploying Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/new-reference-architecture-deploying-red-hat-ansible-automation-platform-2.1) - Posted: December 16, 2021 
 - [Getting started with Red Hat Ansible Platform](https://developers.redhat.com/products/ansible/getting-started)
 - [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
+
+### Installation
+- [How to uninstall Red Hat Ansible Controller](https://access.redhat.com/solutions/6733721)
 
 ### Provisioining
 - [Build a lab in 36 seconds with Ansible](https://www.redhat.com/sysadmin/build-VM-fast-ansible)

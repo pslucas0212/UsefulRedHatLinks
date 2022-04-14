@@ -1,7 +1,7 @@
 # Useful Red Hat Links
 Updated 14 April 2022
 
-The ###TOC## below navigates to an indivdual topic page.  At the top of each page is a link back to this TOC.
+The ## TOC ## below navigates to an indivdual topic page.  At the top of each page is a link back to this TOC.
 
 ## Table of Contents
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)

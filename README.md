@@ -11,7 +11,7 @@ Updated 14 April 2022
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
 - [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md)
-- [Red Hat Storage](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-storage)
+- [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-virtualization)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-misc-topics)
 
@@ -38,21 +38,6 @@ Updated 14 April 2022
 
 
 
-
-
-
-
-
-
-
-
-## Red Hat Storage
-### Red Hat Gluster
-- [Architectural overview of Red Hat Gluster Storage](https://www.redhat.com/en/about/videos/architectural-overview-red-hat-gluster-storage) - YouTube
-- [Red Hat Gluster Storage: Compatible Physical, Virtual Server and Client OS Platforms](https://access.redhat.com/articles/66206)
-- [PERFORMANCE AND SIZING GUIDE](https://go.qct.io/wp-content/uploads/2018/08/Reference-Architecture-QCT-and-Red-Hat-Gluster-Storage-Performance-and-Sizing-Guide.pdf) - PDF
-- [Performance and Sizing with Red Hat Gluster Storage](https://www.youtube.com/watch?v=h86zGibyndM) - YouTube
-- [How to setup Red Hat Gluster storage cluster?](https://access.redhat.com/solutions/2045273)
 
 ## Red Hat Virtualization
 - [Red Hat Virtualization Life Cycle](https://access.redhat.com/support/policy/updates/rhev)

@@ -5,7 +5,7 @@ Updated 14 April 2022
 - [Red Hat Support Topics](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-support-topics)
 - [Red Hat Learning](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-learning)
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-content-distribution-network)
-- [Red Hat Enterprise Linux](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-enterprise-linux)
+- [Red Hat Enterprise Linux]https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
 - [Red Hat Smart Managment](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-smart-management)
 - [Red Hat OpenShift](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/UsefulRedHatLinks#red-hat-openshift-edge)

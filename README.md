@@ -12,17 +12,8 @@ Updated 14 April 2022
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
 - [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md)
 - [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)
-- [Red Hat Virtualizaton](https://github.com/pslucas0212/UsefulRedHatLinks/blob/main/README.md#red-hat-virtualization)
+- [Red Hat Virtualizaton](https://github.com/pslucas0212/RedHatVirtualization-Useful-Links/blob/main/README.md)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/RedHatMiscTopics-Useful-Links/blob/main/README.md)
 
-
-
-
-
-
-
-
-## Red Hat Virtualization
-- [Red Hat Virtualization Life Cycle](https://access.redhat.com/support/policy/updates/rhev)
 
 

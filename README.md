@@ -19,6 +19,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/RedHatVirtualization-Useful-Links/blob/main/README.md)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/RedHatMiscTopics-Useful-Links/blob/main/README.md)
+- [Red Hat Summit](https://github.com/pslucas0212/Red-Hat-Summit/)
 
 
 

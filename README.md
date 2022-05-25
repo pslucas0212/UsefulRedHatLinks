@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-New content added on 18 May 2022
+New content added on 25 May 2022
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 
@@ -10,7 +10,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
-- [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
+- [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md) - Updated 25 May 2022
 - [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)

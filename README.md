@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-New content added on 26 May 2022
+New content added on 2 June 2022
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 
@@ -7,7 +7,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 
 
 ## Table of Contents
-- [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links)
+- [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links) - Updated 2 June 2022
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)

@@ -9,7 +9,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 ## Table of Contents
 - [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links) - Updated 2 June 2022
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
-- [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)
+- [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)  - Updated 2 June 2022
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
 - [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links) - Updated 2 June 2022
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md) - Updated 7 June 2022

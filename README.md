@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-New content added on 29 June 2022
+New content added on 6 July 2022
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 
@@ -17,7 +17,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md) - Updated 7 June 2022
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
-- [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md)
+- [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md) - Updated 6 July 2022
 - [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/RedHatVirtualization-Useful-Links/blob/main/README.md)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/RedHatMiscTopics-Useful-Links/blob/main/README.md)

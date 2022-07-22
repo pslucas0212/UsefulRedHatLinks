@@ -7,17 +7,17 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 
 
 ## Table of Contents
-- [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links) - Updated 2 June 2022
+- [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links)
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
-- [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md)  - Updated 2 June 2022
+- [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md) 
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
-- [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links) - Updated 2 June 2022
-- [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md) - Updated 29 June 2022
-- [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md) - Updated 26 May 2022
-- [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md) - Updated 7 June 2022
+- [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links) 
+- [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
+- [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md) 
+- [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md) 
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
-- [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md) - Updated 6 July 2022
+- [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md) 
 - [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)
 - [Red Hat Virtualizaton](https://github.com/pslucas0212/RedHatVirtualization-Useful-Links/blob/main/README.md)
 - [Red Hat Misc. Topics](https://github.com/pslucas0212/RedHatMiscTopics-Useful-Links/blob/main/README.md)

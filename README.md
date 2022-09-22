@@ -15,7 +15,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
 - [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md) 
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md) 
-- [Red Hat OpenShift Data Fondation](https://github.com/pslucas0212/Openshift-Data-Foundation-Useful-Links)
+- [Red Hat OpenShift Data Foundation](https://github.com/pslucas0212/Openshift-Data-Foundation-Useful-Links)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
 - [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md) 

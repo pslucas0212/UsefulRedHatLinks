@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-New content added on 18 November 2022
+New content added on 20 December 2022
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

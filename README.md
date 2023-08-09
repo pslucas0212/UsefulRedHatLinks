@@ -29,6 +29,5 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Summit](https://github.com/pslucas0212/Red-Hat-Summit/)
 - [Paul's Red Tutorials on redhat.com](https://github.com/pslucas0212/Paul-Red-Hat-Tutorials)
 - [Other interesting articles]()
-
-
+- [Paul's Tutorial Content on Github](https://github.com/pslucas0212/PaulsTutorials/tree/main)
 

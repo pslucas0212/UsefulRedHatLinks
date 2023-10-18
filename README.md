@@ -14,7 +14,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links) 
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
 - [Red Hat Enterprise Linux for SAP](https://github.com/pslucas0212/RHEL-For-SAP-Useful-Links)
-- [Red Hat Edge]()
+- [Red Hat Edge](https://github.com/pslucas0212/Red-Hat-Edge/tree/main)
 - [Red Hat Podman](https://github.com/pslucas0212/RedHatPodman-Useful-Links)
 - [Red Hat Smart Managment](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md) 
 - [Red Hat OpenShift - Managed Service](https://github.com/pslucas0212/OCP-ManagedService-UsefulLink)

@@ -13,6 +13,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
 - [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links) 
 - [Red Hat Enterprise Linux](https://github.com/pslucas0212/RHEL-Useful-Links/blob/main/README.md)
+- [Red Hat Enterprise Linux - Upgrade or Convert](https://github.com/pslucas0212/RHEL-Upgrade-Convert-Useful-links/)
 - [Red Hat Enterprise Linux for SAP](https://github.com/pslucas0212/RHEL-For-SAP-Useful-Links)
 - [Red Hat Edge](https://github.com/pslucas0212/Red-Hat-Edge/tree/main)
 - [Red Hat Podman](https://github.com/pslucas0212/RedHatPodman-Useful-Links)

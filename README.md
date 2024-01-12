@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Updated 16 November 2023
+Updated 12 January 2024
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

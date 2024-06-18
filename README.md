@@ -3,6 +3,7 @@ Content updated 18 June 2024
 
 18 June 2024 - [Information on AAP Execution Environments](https://developers.redhat.com/articles/2023/05/08/how-create-execution-environments-using-ansible-builder)   
 18 June 2024 - [AAP Pricing and platorm options](https://www.redhat.com/en/technologies/management/ansible/pricing)
+18 June 2024 - [K8s and OCP Lifecycle Page](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

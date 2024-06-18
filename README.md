@@ -1,7 +1,7 @@
 # Useful Red Hat Links
 Content updated 18 June 2024
 
-18 June 2024 - [Added information on AAP Execution Environments]()
+18 June 2024 - [Added information on AAP Execution Environments](https://developers.redhat.com/articles/2023/05/08/how-create-execution-environments-using-ansible-builder)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

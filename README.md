@@ -1,6 +1,7 @@
 # Useful Red Hat Links
-Content updated 18 June 2024
+Content updated 20 June 2024
 
+- 20 June 2024 - [Red Hat Learning - OCP Learning Summary](https://github.com/pslucas0212/RedHatLearning-OCP-Learning-Summary)
 - 18 June 2024 - [Red Hat Enterprise Linux 8.10 and 9.4 Release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.4_release_notes/index) - Note: 8.10 is the last release of RHEL 8.x and has entered Maintenance Support. RHEL 8.8 EUS ends May 31, 2025 and you will need to update to RHEL 8.10 for continued support.  
 - 18 June 2024 - [Information on AAP Execution Environments](https://developers.redhat.com/articles/2023/05/08/how-create-execution-environments-using-ansible-builder)   
 - 18 June 2024 - [AAP Pricing and platorm options](https://www.redhat.com/en/technologies/management/ansible/pricing)   

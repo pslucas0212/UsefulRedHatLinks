@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 02 July 2024
 
+- 02 July 2024 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle)
 - 02 July 2024 - [Optimize application life cycles with Red Hat Enterprise Linux 8.10](https://www.redhat.com/en/blog/optimize-application-life-cycles-red-hat-enterprise-linux-810)
 - 02 July 2024 - [Enabling metering for Red Hat Enterprise Linux with Extended Lifecycle Support in your cloud environment](https://access.redhat.com/articles/7061563)
 - 02 July 2024 - [Enabling Red Hat Enterprise Linux 7 Extended Life-cycle Support via Cloud Marketplaces](https://access.redhat.com/articles/rhel-7-els-on-cloud)

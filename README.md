@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 02 July 2024
 
+- 02 July 2024 - [Enabling metering for Red Hat Enterprise Linux with Extended Lifecycle Support in your cloud environment](https://access.redhat.com/articles/7061563)
 - 02 July 2024 - [Enabling Red Hat Enterprise Linux 7 Extended Life-cycle Support via Cloud Marketplaces](https://access.redhat.com/articles/rhel-7-els-on-cloud)
 - 20 June 2024 - [Red Hat Learning - OCP Learning Summary](https://github.com/pslucas0212/RedHatLearning-OCP-Learning-Summary)
 - 18 June 2024 - [Red Hat Enterprise Linux 8.10 and 9.4 Release](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html/9.4_release_notes/index) - Note: 8.10 is the last release of RHEL 8.x and has entered Maintenance Support. RHEL 8.8 EUS ends May 31, 2025 and you will need to update to RHEL 8.10 for continued support.  

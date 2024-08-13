@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 13 August 2024
 
+- 13 August 2024 - [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 - 02 July 2024 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle)
 - 02 July 2024 - [Optimize application life cycles with Red Hat Enterprise Linux 8.10](https://www.redhat.com/en/blog/optimize-application-life-cycles-red-hat-enterprise-linux-810)
 - 02 July 2024 - [Enabling metering for Red Hat Enterprise Linux with Extended Lifecycle Support in your cloud environment](https://access.redhat.com/articles/7061563)
@@ -12,7 +13,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 
 
 ## Table of Contents
-- [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]()
+- [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
 - [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links)
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md) 

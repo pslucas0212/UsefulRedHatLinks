@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Content updated 02 July 2024
+Content updated 13 August 2024
 
 - 02 July 2024 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle)
 - 02 July 2024 - [Optimize application life cycles with Red Hat Enterprise Linux 8.10](https://www.redhat.com/en/blog/optimize-application-life-cycles-red-hat-enterprise-linux-810)

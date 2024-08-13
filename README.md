@@ -17,6 +17,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 
 
 ## Table of Contents
+- [Red Hat Software Subscription Policy.  AKA "The all or nothing clause]()
 - [Red Hat Customer Portal](https://github.com/pslucas0212/Customer-Portal-Useful-Links)
 - [Red Hat Support Topics](https://github.com/pslucas0212/RedHatSupport-Useful-Links/blob/main/README.md)
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md) 

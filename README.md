@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 14 August 2024
 
+- 15 August 2024 - [Ansible Automation Platform and ServiceNow ITSM Integration](https://www.redhat.com/en/blog/ansible-automation-platform-and-servicenow-itsm-integration)
 - 14 August 2024 - [Learn OpenShift Virtualization: 7 training resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
 - 13 August 2024 - [How to check the list of repositories provided by the subscription on the customer portal](https://access.redhat.com/solutions/6776171)  
 - 13 August 2024 - [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)

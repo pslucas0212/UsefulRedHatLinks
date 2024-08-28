@@ -1,6 +1,7 @@
 # Useful Red Hat Links
-Content updated 20 August 2024
+Content updated 28 August 2024
 
+- 28 August 2024 - - [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
 - 20 August 2024 - [Kubevirt - Building a virtualization API for Kubernetes](https://github.com/kubevirt)
 - 20 August 2024 - [KubeVirt Adopters](https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md)
 - 15 August 2024 - [Ansible Automation Platform and ServiceNow ITSM Integration](https://www.redhat.com/en/blog/ansible-automation-platform-and-servicenow-itsm-integration)

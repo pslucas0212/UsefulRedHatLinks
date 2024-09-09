@@ -1,15 +1,15 @@
 # Useful Red Hat Links
-Content updated 28 August 2024
+Content updated 9 September 2024
 
+- 9 September 2024 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
+- 9 September 2024 - [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
+- 9 September 2024 - [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube
+- 9 September 2024 - [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube
+- 9 September 2024 - [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
 - 28 August 2024 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
 - 28 August 2024 -  [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
 - 20 August 2024 - [Kubevirt - Building a virtualization API for Kubernetes](https://github.com/kubevirt)
 - 20 August 2024 - [KubeVirt Adopters](https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md)
-- 15 August 2024 - [Ansible Automation Platform and ServiceNow ITSM Integration](https://www.redhat.com/en/blog/ansible-automation-platform-and-servicenow-itsm-integration)
-- 14 August 2024 - [Learn OpenShift Virtualization: 7 training resources to help you get started](https://www.redhat.com/en/blog/learn-openshift-virtualization)
-- 13 August 2024 - [How to check the list of repositories provided by the subscription on the customer portal](https://access.redhat.com/solutions/6776171)  
-- 13 August 2024 - [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."](https://github.com/pslucas0212/Red-Hat-Software-Subscription-Policy)
-
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

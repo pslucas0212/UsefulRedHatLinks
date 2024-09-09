@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 9 September 2024
 
+- 9 September 2024 - [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
 - 9 September 2024 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
 - 9 September 2024 - [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
 - 9 September 2024 - [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube

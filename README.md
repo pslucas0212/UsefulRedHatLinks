@@ -1,6 +1,7 @@
 # Useful Red Hat Links
-Content updated 9 September 2024
+Content updated 10 September 2024
 
+- 10 September 2024 - [Master the art of bare metal deployments with image mode for RHEL](https://developers.redhat.com/articles/2024/08/20/bare-metal-deployments-image-mode-rhel?source=sso#)
 - 9 September 2024 - [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
 - 9 September 2024 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
 - 9 September 2024 - [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
@@ -8,9 +9,7 @@ Content updated 9 September 2024
 - 9 September 2024 - [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube
 - 9 September 2024 - [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
 - 28 August 2024 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
-- 28 August 2024 -  [Automating SAP HANA Scale-Up System Replication using the RHEL HA Add-On](https://access.redhat.com/articles/3004101)
-- 20 August 2024 - [Kubevirt - Building a virtualization API for Kubernetes](https://github.com/kubevirt)
-- 20 August 2024 - [KubeVirt Adopters](https://github.com/kubevirt/kubevirt/blob/main/ADOPTERS.md)
+
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

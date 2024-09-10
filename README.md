@@ -9,7 +9,6 @@ Content updated 10 September 2024
 - 9 September 2024 - [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube
 - 9 September 2024 - [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube
 - 9 September 2024 - [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
-- 28 August 2024 - [Support Policies for RHEL High Availability Clusters - General Conditions with Virtualized Cluster Members](https://access.redhat.com/articles/3131111)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

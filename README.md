@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 10 September 2024
 
+- 10 September 2024 -
 - 10 September 2024 - [Master the art of bare metal deployments with image mode for RHEL](https://developers.redhat.com/articles/2024/08/20/bare-metal-deployments-image-mode-rhel?source=sso#)
 - 9 September 2024 - [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
 - 9 September 2024 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)

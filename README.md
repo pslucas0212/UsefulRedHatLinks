@@ -35,6 +35,7 @@ This is my peronal curated list of Red Hat software topics that have come up dur
 - [Red Hat OpenShift Data Foundation](https://github.com/pslucas0212/Openshift-Data-Foundation-Useful-Links)
 - [Red Hat OpenShift Edge](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md#red-hat-openshift-edge)
 - [Red Hat Ansible Automation Platform](https://github.com/pslucas0212/AAP-Useful-Links/blob/main/README.md)
+- [Red Hat Quay](https://github.com/pslucas0212/Quay-Useful-Links/tree/main)
 - [Red Hat Runtimes](https://github.com/pslucas0212/RedHatRuntimes-Useful-Links/blob/main/README.md)
 - [Red Hat Integration](https://github.com/pslucas0212/RedHatIntegration-Useful-Links/)
 - [Red Hat Storage](https://github.com/pslucas0212/RedHatStorage-Useful-Links/blob/main/README.md)

@@ -1,7 +1,8 @@
 # Useful Red Hat Links
 Content updated 10 September 2024
 
-- 1 October 2024 - - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
+- 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
+- 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube
 - 10 September 2024 - [Deploying RHEL](https://www.youtube.com/playlist?list=PLXJyD2dL4oqerOhcO7W94vItnZ39MjgKq) - Series of YouTube videos covering RHEL deployment
 - 10 September 2024 - [Master the art of bare metal deployments with image mode for RHEL](https://developers.redhat.com/articles/2024/08/20/bare-metal-deployments-image-mode-rhel?source=sso#)
 - 9 September 2024 - [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)

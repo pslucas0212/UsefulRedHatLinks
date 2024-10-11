@@ -1,17 +1,11 @@
 # Useful Red Hat Links
-Content updated 10 September 2024
+Content updated 11 October 2024
 
+- 11 October - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
 - 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube
 - 10 September 2024 - [Deploying RHEL](https://www.youtube.com/playlist?list=PLXJyD2dL4oqerOhcO7W94vItnZ39MjgKq) - Series of YouTube videos covering RHEL deployment
 - 10 September 2024 - [Master the art of bare metal deployments with image mode for RHEL](https://developers.redhat.com/articles/2024/08/20/bare-metal-deployments-image-mode-rhel?source=sso#)
-- 9 September 2024 - [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
-- 9 September 2024 - [Self-paced Lab: Red Hat Satellite Basics](https://red.ht/satellite-basics-workshop)
-- 9 September 2024 - [Introduction and Installation | Up and Running with Red Hat Satellite 01](https://www.youtube.com/watch?v=QRN6oPeg0bY) - YouTube
-- 9 September 2024 - [Managing Content Views & Subscriptions | Up and Running with Red Hat Satellite 02](https://www.youtube.com/watch?v=GAxec86rfNQ) - YouTube
-- 9 September 2024 - [Patching and Security mitigation | Up and Running with Red Hat Satellite 03](https://www.youtube.com/watch?v=MRuCo5joFzY) - YouTube
-- 9 September 2024 - [Standardization and Management at Scale | Up and Running with Red Hat Satellite 04](https://www.youtube.com/watch?v=e87Ly1uCot8) - YouTube
-
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

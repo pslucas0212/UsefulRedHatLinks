@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 11 October 2024
 
+- 11 October - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
 - 11 October - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
 - 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube

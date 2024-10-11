@@ -3,6 +3,7 @@ Content updated 11 October 2024
 
 - 11 October - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
 - 11 October - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
+- 11 October - [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
 - 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube
 - 10 September 2024 - [Deploying RHEL](https://www.youtube.com/playlist?list=PLXJyD2dL4oqerOhcO7W94vItnZ39MjgKq) - Series of YouTube videos covering RHEL deployment

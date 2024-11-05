@@ -1,7 +1,7 @@
 # Useful Red Hat Links
 Content updated 28 October 2024
 
-- 28 October - [Getting Started with RHEL A](https://developers.redhat.com/products/rhel-ai/getting-started)
+- 28 October - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
 - 28 October - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
 - 11 October - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
 - 11 October - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)

@@ -1,12 +1,12 @@
 # Useful Red Hat Links
 Content updated 12 November 2024
 
-- 12 November 2024 - - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
-- 28 October - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
-- 28 October - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
-- 11 October - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
-- 11 October - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
-- 11 October - [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
+- 12 November 2024 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
+- 28 October 2024 - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
+- 28 October 2024 - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
+- 11 October 2024 - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
+- 11 October 2024 - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
+- 11 October 2024 - [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
 - 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube
 

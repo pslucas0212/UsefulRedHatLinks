@@ -1,6 +1,7 @@
 # Useful Red Hat Links
-Content updated 28 October 2024
+Content updated 12 November 2024
 
+- 12 November 2024 - - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
 - 28 October - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
 - 28 October - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
 - 11 October - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
@@ -8,8 +9,6 @@ Content updated 28 October 2024
 - 11 October - [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
 - 1 October 2024 - [Unlock your Automation Advantage with Red Hat Ansible Automation Platform 2.5](https://www.redhat.com/en/blog/unlock-your-automation-advantage-red-hat-ansible-automation-platform-25)
 - 1 October 2024 - [What's New in Openshift 4.17 - Key Updates and New Features - October 2024](https://www.youtube.com/watch?v=DvKHwz-c11c) - Presentation via Youtube
-- 10 September 2024 - [Deploying RHEL](https://www.youtube.com/playlist?list=PLXJyD2dL4oqerOhcO7W94vItnZ39MjgKq) - Series of YouTube videos covering RHEL deployment
-- 10 September 2024 - [Master the art of bare metal deployments with image mode for RHEL](https://developers.redhat.com/articles/2024/08/20/bare-metal-deployments-image-mode-rhel?source=sso#)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

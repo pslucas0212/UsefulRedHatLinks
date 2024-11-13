@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 13 November 2024
 
+- 13 November 2024 - [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
 - 13 November 2024 - [Upgrade RHEL7.9 to 8.x with leapp using Ansible](https://access.redhat.com/discussions/6921941)
 - 13 November 2024 - [Ansible Leapp Collection - GitHub](https://github.com/redhat-cop/infra.leapp)
 - 12 November 2024 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)

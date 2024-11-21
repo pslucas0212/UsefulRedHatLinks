@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 21 November 2024
 
+- 21 November 2024 - [Storage and data protection for OpenShift Virtualization](https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization?source=sso)
 - 21 November 2024 - [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
 - 21 November 2024 - [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
 - 21 November 2024 - [Does OpenShift Virtualization support SAP HANA?](https://access.redhat.com/solutions/6996642)

@@ -1,15 +1,15 @@
 # Useful Red Hat Links
-Content updated 13 November 2024
+Content updated 21 November 2024
 
+- 21 November 2024 - [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
+- 21 November 2024 - [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
+- 21 November 2024 - [Does OpenShift Virtualization support SAP HANA?](https://access.redhat.com/solutions/6996642)
 - 13 November 2024 - [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
 - 13 November 2024 - [Upgrade RHEL7.9 to 8.x with leapp using Ansible](https://access.redhat.com/discussions/6921941)
 - 13 November 2024 - [Ansible Leapp Collection - GitHub](https://github.com/redhat-cop/infra.leapp)
 - 12 November 2024 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
 - 28 October 2024 - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
 - 28 October 2024 - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
-- 11 October 2024 - [OpenShift Container Platform 4.16 Architecture](https://docs.redhat.com/en/documentation/openshift_container_platform/4.16/pdf/architecture/OpenShift_Container_Platform-4.16-Architecture-en-US.pdf)
-- 11 October 2024 - [OpenShift Virtualization - Reference Implementation Guide](https://access.redhat.com/articles/7067871)
-- 11 October 2024 - [Getting to Know the Red Hat Hybrid Cloud Console for your OpenShift Environments](https://www.redhat.com/en/blog/getting-to-know-the-red-hat-hybrid-cloud-console-for-your-openshift-environments)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

@@ -14,7 +14,7 @@ Content updated 21 November 2024
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 
-This is my peronal curated list of Red Hat software topics that have come up during customer conversations or topics that I have found useful.  This is not a comperhensive list.  If you have suggestions or comments, please email me at paul.lucas@redhat.com
+This is my personal curated list of Red Hat software topics that have come up during customer conversations or topics that I have found useful.  This is not a comperhensive list.  If you have suggestions or comments, please email me at paul.lucas@redhat.com
 
 
 ## Table of Contents

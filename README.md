@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 21 November 2024
 
+- 3 December 2024 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - 21 November 2024 - [Storage and data protection for OpenShift Virtualization](https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization?source=sso)
 - 21 November 2024 - [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
 - 21 November 2024 - [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
@@ -9,8 +10,6 @@ Content updated 21 November 2024
 - 13 November 2024 - [Upgrade RHEL7.9 to 8.x with leapp using Ansible](https://access.redhat.com/discussions/6921941)
 - 13 November 2024 - [Ansible Leapp Collection - GitHub](https://github.com/redhat-cop/infra.leapp)
 - 12 November 2024 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
-- 28 October 2024 - [Getting Started with RHEL AI](https://developers.redhat.com/products/rhel-ai/getting-started)
-- 28 October 2024 - [Red Hat Enterprise Linux AI 1.2](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux_ai/1.2) - Product documenatition
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

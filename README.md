@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Content updated 21 November 2024
+Content updated 3 December 2024
 
 - 3 December 2024 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - 21 November 2024 - [Storage and data protection for OpenShift Virtualization](https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization?source=sso)

@@ -1,15 +1,10 @@
 # Useful Red Hat Links
-Content updated 3 December 2024
+Content updated 13 January 2025
 
+
+- 13 January 2025 - [20 essential Linux commands for every user](https://www.redhat.com/en/blog/20-essential-linux-commands-every-user)
+- 13 January 2025 - [Find files and directories on Linux with the find command](https://opensource.com/article/21/9/linux-find-command)
 - 3 December 2024 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
-- 21 November 2024 - [Storage and data protection for OpenShift Virtualization](https://developers.redhat.com/articles/2024/10/10/storage-data-protection-openshift-virtualization?source=sso)
-- 21 November 2024 - [SAP on Red Hat OpenShift Virtualization](https://www.redhat.com/en/blog/sap-red-hat-openshift-virtualization)
-- 21 November 2024 - [Deploying SAP Workloads with OpenShift Virtualization](https://access.redhat.com/articles/7048369)
-- 21 November 2024 - [Does OpenShift Virtualization support SAP HANA?](https://access.redhat.com/solutions/6996642)
-- 13 November 2024 - [Tame complexity with Red Hat Enterprise Linux 9.5](https://www.redhat.com/en/blog/red-hat-enterprise-linux-95-release)
-- 13 November 2024 - [Upgrade RHEL7.9 to 8.x with leapp using Ansible](https://access.redhat.com/discussions/6921941)
-- 13 November 2024 - [Ansible Leapp Collection - GitHub](https://github.com/redhat-cop/infra.leapp)
-- 12 November 2024 - [How to import OVA files exported from VMware to OpenShift Virtualization?](https://access.redhat.com/solutions/7016396)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

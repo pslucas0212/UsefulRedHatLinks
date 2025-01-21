@@ -2,7 +2,8 @@
 Content updated 2 January 2025
 
 
-- 21 January 2025 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)
+- 21 January 2025 - [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
+- 21 January 20250 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)
 - 13 January 2025 - [20 essential Linux commands for every user](https://www.redhat.com/en/blog/20-essential-linux-commands-every-user)
 - 13 January 2025 - [Find files and directories on Linux with the find command](https://opensource.com/article/21/9/linux-find-command)
 - 3 December 2024 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)

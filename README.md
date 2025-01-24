@@ -3,6 +3,7 @@ Content updated 24 January 2025
 
 
 - 24 January 2025 - [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
+- 24 January 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
 - 24 January 2025 
 - 21 January 2025 - [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
 - 21 January 20250 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)

@@ -5,12 +5,9 @@ Content updated 24 January 2025
 - 24 January 2025 - [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
 - 24 January 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
 - 24 January 2025 - [What image mode means for users of RHEL for edge](https://www.redhat.com/en/blog/what-image-mode-means-users-rhel-edge?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
-- 24 January 2025 
+- 24 January 2025 - [An introduction to using tcpdump at the Linux command line](https://www.redhat.com/en/blog/introduction-using-tcpdump-linux-command-line)
 - 21 January 2025 - [Upcoming improvements to Red Hat Enterprise Linux minor release betas](https://www.redhat.com/en/blog/upcoming-improvements-red-hat-enterprise-linux-minor-release-betas)
 - 21 January 20250 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)
-- 13 January 2025 - [20 essential Linux commands for every user](https://www.redhat.com/en/blog/20-essential-linux-commands-every-user)
-- 13 January 2025 - [Find files and directories on Linux with the find command](https://opensource.com/article/21/9/linux-find-command)
-- 3 December 2024 - [OpenShift Container Platform 4.17 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.17/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

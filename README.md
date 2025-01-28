@@ -1,7 +1,7 @@
 # Useful Red Hat Links
-Content updated 24 January 2025
+Content updated 28 January 2025
 
-
+- 28 January 2025 - [How to test fence devices and fencing configuration in a Red Hat High Availability cluster?](https://access.redhat.com/solutions/18803)
 - 24 January 2025 - [Automation in 2025: 10 articles to read now](https://www.redhat.com/en/blog/automation-2025-10-articles-read-now?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)
 - 24 January 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
 - 24 January 2025 - [What image mode means for users of RHEL for edge](https://www.redhat.com/en/blog/what-image-mode-means-users-rhel-edge?sc_cid=701f2000000txokAAA&utm_source=bambu&utm_medium=organic_social)

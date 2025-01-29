@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 29 January 2025
 
+- 29 January 2025 - [How to set up tlog on Linux hosts for terminal logging](https://www.redhat.com/en/blog/terminal-logging)
 - 29 January 2025 - [Configure Linux system auditing with auditd](https://www.redhat.com/en/blog/configure-linux-auditing-auditd)
 - 29 January 2025 - [System-wide cryptographic policies in RHEL](https://access.redhat.com/articles/3666211)
 - 29 January 2025 - [Configuring RHEL 8 for compliance with crypto-policy related to Cipher Block Chaining](https://www.redhat.com/en/blog/configuring-rhel-8-compliance-crypto-policy-related-cipher-block-chaining)

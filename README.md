@@ -1,7 +1,7 @@
 # Useful Red Hat Links
 Content updated 12 February 2025
 
-- 12 February 2025 - - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
+- 12 February 2025 - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
 - 29 January 2025 - [How to set up tlog on Linux hosts for terminal logging](https://www.redhat.com/en/blog/terminal-logging)
 - 29 January 2025 - [Configure Linux system auditing with auditd](https://www.redhat.com/en/blog/configure-linux-auditing-auditd)
 - 29 January 2025 - [System-wide cryptographic policies in RHEL](https://access.redhat.com/articles/3666211)

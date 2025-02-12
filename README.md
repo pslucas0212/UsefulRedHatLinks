@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 Content updated 12 February 2025
 
+- 12 February 2025 - [Kubernetes and OpenShift Lifecycle - Updated for K8s 1.32 release](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/blob/main/README.md)
 - 12 February 2025 - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
 - 12 February 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
 - 29 January 2025 - [How to set up tlog on Linux hosts for terminal logging](https://www.redhat.com/en/blog/terminal-logging)

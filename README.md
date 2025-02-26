@@ -2,6 +2,7 @@
 Content updated 25 February 2025
 
 - 25 February 2025 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
+- 25 February 2025 - [OpenShift Container Platform 4.18 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.18/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - 25 February 2025 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/)
 - 12 February 2025 - [Kubernetes and OpenShift Lifecycle - Updated for K8s 1.32 release](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/blob/main/README.md)
 - 12 February 2025 - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)

@@ -1,14 +1,10 @@
 # Useful Red Hat Links
-Content updated 12 February 2025
+Content updated 25 February 2025
 
+- 25 February 2025 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
 - 12 February 2025 - [Kubernetes and OpenShift Lifecycle - Updated for K8s 1.32 release](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/blob/main/README.md)
 - 12 February 2025 - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
 - 12 February 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
-- 29 January 2025 - [How to set up tlog on Linux hosts for terminal logging](https://www.redhat.com/en/blog/terminal-logging)
-- 29 January 2025 - [Configure Linux system auditing with auditd](https://www.redhat.com/en/blog/configure-linux-auditing-auditd)
-- 29 January 2025 - [System-wide cryptographic policies in RHEL](https://access.redhat.com/articles/3666211)
-- 29 January 2025 - [Configuring RHEL 8 for compliance with crypto-policy related to Cipher Block Chaining](https://www.redhat.com/en/blog/configuring-rhel-8-compliance-crypto-policy-related-cipher-block-chaining)
-- 29 January 2025 - [AD-SUPPORT subpolicy in RHEL 8 and AD-SUPPORT-LEGACY subpolicy in RHEL 9](https://access.redhat.com/solutions/7004158)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

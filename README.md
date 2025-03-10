@@ -1,7 +1,7 @@
 # Useful Red Hat Links
-Content updated 27 February 2025
+Content updated 10 March 2025
 
-- 27 February 2025 - [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
+- 10 March 2025 - [Pacemaker and STONITH Tuning for Fencing Agent - fence_vmware_soap & fence_vmware_rest - Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)27 February 2025 - [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
 - 25 February 2025 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
 - 25 February 2025 - [OpenShift Container Platform 4.18 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.18/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - 25 February 2025 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/)

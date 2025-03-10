@@ -1,14 +1,11 @@
 # Useful Red Hat Links
 Content updated 10 March 2025
-
+- 10 March 2025 - [fence_vmware_soap/fence_vmware_rest fails with error 'Unable to connect/login to fencing device' in a RHEL High Availability cluster](https://access.redhat.com/solutions/1327053)
 - 10 March 2025 - [Pacemaker and STONITH Tuning for Fencing Agent - fence_vmware_soap & fence_vmware_rest - Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)
 - 27 February 2025 - [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
 - 25 February 2025 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
 - 25 February 2025 - [OpenShift Container Platform 4.18 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.18/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 - 25 February 2025 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/)
-- 12 February 2025 - [Kubernetes and OpenShift Lifecycle - Updated for K8s 1.32 release](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/blob/main/README.md)
-- 12 February 2025 - [Multiple ways of Authentication on OpenShift Container Platform (OCP), Part 2](https://www.redhat.com/en/blog/multiple-ways-of-authentication-on-openshift-container-platform-ocp-part-2)
-- 12 February 2025 - [Introducing Red Hat OpenShift Virtualization Engine: OpenShift for your virtual machines](https://www.redhat.com/en/blog/introducing-red-hat-openshift-virtualization-engine)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

@@ -1,11 +1,8 @@
 # Useful Red Hat Links
 Content updated 10 March 2025
+- 1 April 2025 - [Red Hat Satellite 6.16 is now available](https://www.redhat.com/en/blog/red-hat-satellite-616-now-available#:~:text=We%20are%20excited%20to%20announce,Enterprise%20Linux%20(RHEL)%20environments.)
 - 10 March 2025 - [fence_vmware_soap/fence_vmware_rest fails with error 'Unable to connect/login to fencing device' in a RHEL High Availability cluster](https://access.redhat.com/solutions/1327053)
 - 10 March 2025 - [Pacemaker and STONITH Tuning for Fencing Agent - fence_vmware_soap & fence_vmware_rest - Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)
-- 27 February 2025 - [Red Hat unveils OpenShift 4.18: Enhanced security and virtualization experience](https://www.redhat.com/en/blog/what-you-need-to-know-red-hat-openshift-418)
-- 25 February 2025 - [What's New in OpenShift 4.18 - Key Updates and New Features](https://www.youtube.com/watch?v=yqBaxC7bmcc) - Presentation via Youtube
-- 25 February 2025 - [OpenShift Container Platform 4.18 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.18/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
-- 25 February 2025 - [Kubernetes and OpenShift Lifecycle](https://github.com/pslucas0212/K8-and-OpenShift-Lifecycle/)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

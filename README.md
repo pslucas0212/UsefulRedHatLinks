@@ -1,5 +1,5 @@
 # Useful Red Hat Links
-Content updated 10 March 2025
+Content updated 1 April 2025
 - 1 April 2025 - [Red Hat Satellite 6.16 is now available](https://www.redhat.com/en/blog/red-hat-satellite-616-now-available#:~:text=We%20are%20excited%20to%20announce,Enterprise%20Linux%20(RHEL)%20environments.)
 - 10 March 2025 - [fence_vmware_soap/fence_vmware_rest fails with error 'Unable to connect/login to fencing device' in a RHEL High Availability cluster](https://access.redhat.com/solutions/1327053)
 - 10 March 2025 - [Pacemaker and STONITH Tuning for Fencing Agent - fence_vmware_soap & fence_vmware_rest - Stability Issues with Virtualized Cluster Nodes running as VMware Guests](https://access.redhat.com/solutions/4583071)

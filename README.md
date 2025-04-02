@@ -1,6 +1,6 @@
 # Useful Red Hat Links
 Content updated 2 April 2025
-- 2 April 2025 - [Upgrade Red Hat Satellite & Capsule Using Satellite Upgrade Helper – Step-by-Step Guide}(https://www.youtube.com/watch?v=Z0s1ZvKtJSg) - Red Hat YouTube video
+- 2 April 2025 - [Upgrade Red Hat Satellite & Capsule Using Satellite Upgrade Helper – Step-by-Step Guide](https://www.youtube.com/watch?v=Z0s1ZvKtJSg) - Red Hat YouTube video
 - 2 Aparil 2025 - [How to install Red Hat Satellite 6.16 on RHEL 9 + Minimal Implementation](https://www.youtube.com/watch?v=g8i7PTYj74k) - YouTube video.  Note: This is not an official Red Hat video, but comes from a Red hat software engineer
 - 1 April 2025 - [Red Hat Satellite 6.16 is now available](https://www.redhat.com/en/blog/red-hat-satellite-616-now-available#:~:text=We%20are%20excited%20to%20announce,Enterprise%20Linux%20(RHEL)%20environments.)
 - 1 April 2025 - [Satellite 6 Component Versions](https://access.redhat.com/articles/1343683)

@@ -25,7 +25,7 @@ This is my personal curated list of Red Hat software topics that have come up du
 - [Red Hat Enterprise Linux Table of Contents](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents/)
 - [Red Hat Edge](https://github.com/pslucas0212/Red-Hat-Edge/tree/main)
 - [Red Hat Podman](https://github.com/pslucas0212/RedHatPodman-Useful-Links)
-- [Red Hat Satellite](https://github.com/pslucas0212/SmartManagement-Useful-Links/blob/main/README.md) 
+- [Red Hat Satellite](https://github.com/pslucas0212/Satellite-Useful-Links/tree/main) 
 - [Red Hat OpenShift - Managed Service](https://github.com/pslucas0212/OCP-ManagedService-UsefulLink)
 - [Red Hat OpenShift](https://github.com/pslucas0212/OCP-Useful-Links/blob/main/README.md)
 - [Red Hat OpenShift Virtualization](https://github.com/pslucas0212/OCP-Virt)

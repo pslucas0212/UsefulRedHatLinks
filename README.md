@@ -1,5 +1,6 @@
 # Useful Red Hat Links
 Content updated 21 April 2025
+- 21 April 2025 - [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command
 - 21 April 2025 - [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel) - My recommendation going forward is to use Remote Host Configuration for registering your RHEL systems to the Red Hat CDN and Red Hat Insights.  This can be done server by server or via Satellite
 - 21 April 2025 - [How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
 - 21 April 2025 - [Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)

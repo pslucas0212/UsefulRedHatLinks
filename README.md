@@ -1,13 +1,12 @@
 # Useful Red Hat Links
-Content updated 21 April 2025
+Content updated 22 April 2025
+- 22 April 2025 - [Image mode for Red Hat Enterprise Linux: A quick start guide](https://www.redhat.com/en/blog/image-mode-red-hat-enterprise-linux-quick-start-guide)
 - 21 April 2025 - [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command
 - 21 April 2025 - [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel) - My recommendation going forward is to use Remote Host Configuration for registering your RHEL systems to the Red Hat CDN and Red Hat Insights.  This can be done server by server or via Satellite
 - 21 April 2025 - [How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
 - 21 April 2025 - [Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
 - 16 April 2025 - [21 things every Red Hat Satellite user should know](https://www.redhat.com/en/blog/21-things-every-red-hat-satellite-user-should-know)
 - 10 April 2025 - [Red Hat Satellite: Essential Training](https://www.youtube.com/playlist?list=PLbMP1JcGBmSEnmwbVGvtX-URDxmgOYOGd) - YouTube
-- 2 April 2025 - [Upgrade Red Hat Satellite & Capsule Using Satellite Upgrade Helper – Step-by-Step Guide](https://www.youtube.com/watch?v=Z0s1ZvKtJSg) - Red Hat YouTube video
-- 2 April 2025 - [How to install Red Hat Satellite 6.16 on RHEL 9 + Minimal Implementation](https://www.youtube.com/watch?v=g8i7PTYj74k) - YouTube video.  Note: This is not an official Red Hat video, but comes from a Red hat software engineer
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

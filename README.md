@@ -1,12 +1,12 @@
 # Useful Red Hat Links
-Content updated 22 April 2025
+Content updated 6 May 2025
+- 6 May 2025 - [Red Hat Ansible Automation Platform Database Scope of Coverage](https://access.redhat.com/articles/4010491)
 - 22 April 2025 - [Image mode for Red Hat Enterprise Linux: A quick start guide](https://www.redhat.com/en/blog/image-mode-red-hat-enterprise-linux-quick-start-guide)
 - 21 April 2025 - [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command
 - 21 April 2025 - [Remote host configuration and management for Red Hat Enterprise Linux](https://www.redhat.com/en/blog/remote-host-configuration-and-management-rhel) - My recommendation going forward is to use Remote Host Configuration for registering your RHEL systems to the Red Hat CDN and Red Hat Insights.  This can be done server by server or via Satellite
 - 21 April 2025 - [How to customize Linux user environments](https://www.redhat.com/en/blog/customize-user-environments)
 - 21 April 2025 - [Linux environment variable tips and tricks](https://www.redhat.com/en/blog/linux-environment-variables)
-- 16 April 2025 - [21 things every Red Hat Satellite user should know](https://www.redhat.com/en/blog/21-things-every-red-hat-satellite-user-should-know)
-- 10 April 2025 - [Red Hat Satellite: Essential Training](https://www.youtube.com/playlist?list=PLbMP1JcGBmSEnmwbVGvtX-URDxmgOYOGd) - YouTube
+
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

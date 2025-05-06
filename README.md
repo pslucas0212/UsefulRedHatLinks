@@ -1,5 +1,6 @@
 # Useful Red Hat Links
 Content updated 6 May 2025
+- 6 May 2025 - [Red Hat Enterprise Linux Interactive Labs - Organized view of some free learning labs]()
 - 6 May 2025 - [Red Hat Ansible Automation Platform Database Scope of Coverage](https://access.redhat.com/articles/4010491)
 - 22 April 2025 - [Image mode for Red Hat Enterprise Linux: A quick start guide](https://www.redhat.com/en/blog/image-mode-red-hat-enterprise-linux-quick-start-guide)
 - 21 April 2025 - [Red Hat Registration Assistant](https://access.redhat.com/labs/registrationassistant/) - A guide to step you through creating the registration command

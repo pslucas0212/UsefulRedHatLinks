@@ -1,4 +1,7 @@
 # Useful Red Hat Links
+
+## [Red Hat Summit 2025 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2025)
+
 Content updated 6 May 2025
 - 6 May 2025 - [Red Hat Enterprise Linux Interactive Labs - Organized view of some free learning labs](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Interactive-Labs/)
 - 6 May 2025 - [Red Hat Ansible Automation Platform Database Scope of Coverage](https://access.redhat.com/articles/4010491)

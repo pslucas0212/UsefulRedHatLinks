@@ -4,6 +4,7 @@
 
 Content updated 22 July 2025
 - 22 July 2025 - [Kickstart Generator](https://access.redhat.com/labs/kickstartconfig/) - Generate a custom kickstart file based on your configuration parameters.
+- 22 July 2025 - [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

@@ -3,9 +3,11 @@
 ## [Red Hat Summit 2025 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2025)
 
 Content updated 22 July 2025
+- 22 July 2025 - [What's next? Red Hat Enterprise Linux 10 and beyond](https://www.redhat.com/en/blog/whats-new-rhel-10)
 - 22 July 2025 - [Kickstart Generator](https://access.redhat.com/labs/kickstartconfig/) - Generate a custom kickstart file based on your configuration parameters.
 - 22 July 2025 - [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
 - 22 July 2025 - [What's new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
+- 22 July 2025 - [OpenShift Container Platform 4.19 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.19/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

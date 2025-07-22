@@ -1,7 +1,5 @@
 # Useful Red Hat Links
 
-## [Red Hat Summit 2025 Announcements](https://github.com/pslucas0212/Red-Hat-Summit-2025)
-
 Content updated 22 July 2025
 - 22 July 2025 - [What's new in Red Hat OpenShift Virtualization 4.19](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-419)
 - 22 July 2025 - [What's next? Red Hat Enterprise Linux 10 and beyond](https://www.redhat.com/en/blog/whats-new-rhel-10)

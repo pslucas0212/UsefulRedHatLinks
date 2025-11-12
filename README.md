@@ -7,6 +7,7 @@ Content updated 12 November 2025
 - 12 November 2025 - [Release Notes for Red Hat Enterprise Linux 9.7](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.7_release_notes/index)
 - 12 November 2025 - [The new and simplified AI accelerator driver experience on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introducing-new-and-simplified-ai-accelerator-driver-experience-rhel)
 - 11 November 2025 - [OpenShift Container Platform 4.20 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.20/pdf/architecture/OpenShift_Container_Platform-4.20-Architecture-en-US.pdf)
+- 11 November 2025 What’s new for developers in Red Hat OpenShift 4.20
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

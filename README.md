@@ -1,12 +1,8 @@
 # Useful Red Hat Links
 
-Content updated 22 July 2025
-- 22 July 2025 - [What's new in Red Hat OpenShift Virtualization 4.19](https://www.redhat.com/en/blog/whats-new-red-hat-openshift-virtualization-419)
-- 22 July 2025 - [What's next? Red Hat Enterprise Linux 10 and beyond](https://www.redhat.com/en/blog/whats-new-rhel-10)
-- 22 July 2025 - [Kickstart Generator](https://access.redhat.com/labs/kickstartconfig/) - Generate a custom kickstart file based on your configuration parameters.
-- 22 July 2025 - [Red Hat OpenShift 4.19 accelerates virtualization and enterprise AI innovation](https://www.redhat.com/en/blog/red-hat-openshift-419-accelerates-virtualization-and-enterprise-ai-innovation)
-- 22 July 2025 - [What's new in Red Hat Enterprise Linux 9.6?](https://www.redhat.com/en/blog/whats-new-red-hat-enterprise-linux-96)
-- 22 July 2025 - [OpenShift Container Platform 4.19 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.19/pdf/architecture/OpenShift_Container_Platform-4.17-Architecture-en-US.pdf)
+Content updated 12 November 2025
+- 12 November 2025 - [What's new in RHEL 10.1: Offline assistance, convenient AI accelerators, and more](https://www.redhat.com/en/blog/what-s-new-rhel-101-offline-assistance-convenient-ai-accelerators-and-more)
+- 12 November 2025 - [Introducing Red Hat Enterprise Linux 9.7](https://www.redhat.com/en/blog/now-available-red-hat-enterprise-linux-97)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

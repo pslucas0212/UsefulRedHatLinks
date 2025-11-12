@@ -3,6 +3,8 @@
 Content updated 12 November 2025
 - 12 November 2025 - [What's new in RHEL 10.1: Offline assistance, convenient AI accelerators, and more](https://www.redhat.com/en/blog/what-s-new-rhel-101-offline-assistance-convenient-ai-accelerators-and-more)
 - 12 November 2025 - [Introducing Red Hat Enterprise Linux 9.7](https://www.redhat.com/en/blog/now-available-red-hat-enterprise-linux-97)
+- 12 November 2025 - [Release Notes for Red Hat Enterprise Linux 10.1](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/10.1_release_notes/index)
+- 12 November 2025 - [Release Notes for Red Hat Enterprise Linux 9.7](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.7_release_notes/index)
 - 12 November 2025 - [The new and simplified AI accelerator driver experience on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introducing-new-and-simplified-ai-accelerator-driver-experience-rhel)
 
 

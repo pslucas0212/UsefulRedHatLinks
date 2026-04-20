@@ -7,6 +7,7 @@ Content updated 20 April 2026
 - 20 April 2026 - [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
 - 20 April 2026 - [Achieve more with Red Hat OpenShift 4.21](https://www.redhat.com/en/blog/achieve-more-red-hat-openshift-421)
 - 20 April 2026 - [What's New in OpenShift 4.21 - Key Updates and New Features](https://www.youtube.com/watch?v=Z1LIIxbcrms)
+- 20 April 2026 - [RHEL for SAP Configurator](https://redhat-sap.github.io/rhel-for-sap-configurator/) - This tool will help you to determine which repos should be registered for your RHEL release running your SAP workloads.
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

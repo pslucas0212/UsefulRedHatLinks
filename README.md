@@ -1,6 +1,7 @@
 # Useful Red Hat Links
 
 Content updated 20 April 2026
+- 20 April 2026 - [If My Subscription Expires or Is Out of Compliance, How Is My Automation Impacted When Using Ansible Automation Platform?](https://access.redhat.com/solutions/6988859)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

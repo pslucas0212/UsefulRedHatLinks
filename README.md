@@ -4,6 +4,7 @@ Content updated 20 April 2026
 - 20 April 2026 - [If My Subscription Expires or Is Out of Compliance, How Is My Automation Impacted When Using Ansible Automation Platform?](https://access.redhat.com/solutions/6988859)
 - 20 April 2026 - [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 - 20 April 2026 - [AI quickstarts: An easy and practical way to get started with Red Hat AI](https://www.redhat.com/en/blog/introducing-ai-quickstarts)
+- 20 April 2026 - [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
 
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.

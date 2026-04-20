@@ -1,15 +1,7 @@
 # Useful Red Hat Links
 
-Content updated 14 November 2025
-- 14 November 2025 - [Red Hat Enterprise Linux 10.1: Top features for developers](https://developers.redhat.com/articles/2025/11/12/red-hat-enterprise-linux-101-top-features-developers)
-- 14 November 2025 - [Red Hat Enterprise Linux 9.7: Top features for developers](https://developers.redhat.com/articles/2025/11/12/red-hat-enterprise-linux-97-top-features-developers)
-- 12 November 2025 - [What's new in RHEL 10.1: Offline assistance, convenient AI accelerators, and more](https://www.redhat.com/en/blog/what-s-new-rhel-101-offline-assistance-convenient-ai-accelerators-and-more)
-- 12 November 2025 - [Introducing Red Hat Enterprise Linux 9.7](https://www.redhat.com/en/blog/now-available-red-hat-enterprise-linux-97)
-- 12 November 2025 - [Release Notes for Red Hat Enterprise Linux 10.1](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/10.1_release_notes/index)
-- 12 November 2025 - [Release Notes for Red Hat Enterprise Linux 9.7](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/9/html/9.7_release_notes/index)
-- 12 November 2025 - [The new and simplified AI accelerator driver experience on Red Hat Enterprise Linux](https://www.redhat.com/en/blog/introducing-new-and-simplified-ai-accelerator-driver-experience-rhel)
-- 11 November 2025 - [OpenShift Container Platform 4.20 Architecture](https://docs.redhat.com/en-us/documentation/openshift_container_platform/4.20/pdf/architecture/OpenShift_Container_Platform-4.20-Architecture-en-US.pdf)
-- 11 November 2025 - [What’s new for developers in Red Hat OpenShift 4.20](https://developers.redhat.com/articles/2025/11/11/whats-new-developers-red-hat-openshift-4-20?extIdCarryOver=true&sc_cid=RHCTN1250000461397&_gl=1*1uy4s43*_gcl_au*MTM3MDkyODMyNy4xNzYwNzMyNzYx)
+Content updated 20 April 2026
+
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

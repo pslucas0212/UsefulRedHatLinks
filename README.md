@@ -5,7 +5,7 @@ Content updated 20 April 2026
 - 20 April 2026 - [Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
 - 20 April 2026 - [AI quickstarts: An easy and practical way to get started with Red Hat AI](https://www.redhat.com/en/blog/introducing-ai-quickstarts)
 - 20 April 2026 - [IT automation with agentic AI: Introducing the MCP server for Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/it-automation-agentic-ai-introducing-mcp-server-red-hat-ansible-automation-platform)
-
+- 20 April 2026 - [Achieve more with Red Hat OpenShift 4.21](https://www.redhat.com/en/blog/achieve-more-red-hat-openshift-421)
 
 Note: The Table of Contents links below navigates to an indivdual topic page.  At the top of each topic page is a link back to this TOC.
 

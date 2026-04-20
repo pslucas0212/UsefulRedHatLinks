@@ -19,7 +19,7 @@ This is my personal curated list of Red Hat software topics that have come up du
 - [Red Hat Learning](https://github.com/pslucas0212/RedHatLearning-Useful-Links/blob/main/README.md) 
 - [Red Hat Content Distribution Network](https://github.com/pslucas0212/RedHatCDN-Useful-Links/blob/main/README.md)
 - [Red Hat Insights](https://github.com/pslucas0212/Red-Hat-Insights-Useful-Links)
-- [Red Hat AI]()
+- [Red Hat AI](https://github.com/pslucas0212/Red-Hat-AI/)
 - [Red Hat Enterprise Linux Table of Contents](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents/)
 - [Red Hat Edge](https://github.com/pslucas0212/Red-Hat-Edge/tree/main)
 - [Red Hat Podman](https://github.com/pslucas0212/RedHatPodman-Useful-Links)
